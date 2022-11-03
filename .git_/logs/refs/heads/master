@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 61d93429341f2aae785c06fbdd881d990561404b ProtiyAlex <60171936+ProtiyAlex@users.noreply.github.com> 1666526150 +0300	commit (initial): HW2 (pipenv)
+61d93429341f2aae785c06fbdd881d990561404b d7df25d81f89ed1228f2f0c423b58e3ca10ae8b1 ProtiyAlex <60171936+ProtiyAlex@users.noreply.github.com> 1666865865 +0300	commit: HW3 pre-commit GitHub Actions
+d7df25d81f89ed1228f2f0c423b58e3ca10ae8b1 20a38cf53a95b1958d71b1f2700cdb14133153a9 ProtiyAlex <60171936+ProtiyAlex@users.noreply.github.com> 1666867610 +0300	rebase (finish): refs/heads/master onto 828b7897fca542b136d728cb31ef3981f255dc85
+20a38cf53a95b1958d71b1f2700cdb14133153a9 46b4d480f87d43feca8e02baf70c6b78b4222ba1 ProtiyAlex <60171936+ProtiyAlex@users.noreply.github.com> 1666867883 +0300	commit: HW3 fix workflows
