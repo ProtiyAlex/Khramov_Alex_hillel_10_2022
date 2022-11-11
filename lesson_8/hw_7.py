@@ -10,12 +10,12 @@ class Shape(ABC):
 
 class Rectangle(Shape):
     def draw(self):
-        print(f"----\n|  |\n----")
+        print("----\n|  |\n----")
 
 
 class Circle(Shape):
     def draw(self):
-        print(f" -- \n-  -\n -- ")
+        print(" -- \n-  -\n -- ")
 
 
 def get_shape() -> Shape:
